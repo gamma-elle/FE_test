@@ -1,0 +1,137 @@
+{
+  "student": [
+    {
+      "name": "Philip",
+      "active": true,
+      "cnt": 2
+    },
+    {
+      "name": "Darrell",
+      "active": true,
+      "cnt": 5
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Cody",
+      "active": true,
+      "cnt": 9
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Bessie",
+      "active": true,
+      "cnt": 0
+    },
+    {
+      "name": "Wendy",
+      "active": false,
+      "cnt": 3
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Esther",
+      "active": true,
+      "cnt": 1
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Gloria",
+      "active": true,
+      "cnt": 1
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Lee",
+      "active": true,
+      "cnt": 2
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Ann",
+      "active": true,
+      "cnt": 0
+    },
+    {
+      "name": "Jacob",
+      "active": true,
+      "cnt": 8
+    },
+    {
+      "name": "Calvin",
+      "active": true,
+      "cnt": 2
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Joe",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    },
+    {
+      "name": "Guest",
+      "active": false,
+      "cnt": 0
+    }
+  ],
+  "group": [
+    "Group 1",
+    "Group 2",
+    "Group 3",
+    "Group 4",
+    "Group 5",
+    "Group 6"
+  ]
+}
